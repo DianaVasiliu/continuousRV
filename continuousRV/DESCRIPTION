@@ -1,0 +1,14 @@
+Package: continuousRV
+Type: Package
+Title: Working with continuous random variables
+Version: 0.1.0
+Author: Diana-Elena Vasiliu, Ioana Grigore, Bogdan Gusuleac, Matei-Stefan Cibotaru 
+Maintainer: Diana-Elena Vasiliu <diana-elena.vasiliu@my.fmi.unibuc.ro>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+Depends:
+    pracma,
+    GoFKernel
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
